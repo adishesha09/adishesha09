@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adishesha09
-- 👀 I’m interested in Game Design and IT innovation
+- 👀 I’m interested in Game Design and IT innovation.
 - 🌱 I’m currently studying Game Design and Development @ Vega School.
 - 📫 How to reach me: spectra.studios007@gmail.com
 - 😄 Pronouns: he/him
