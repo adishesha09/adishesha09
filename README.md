@@ -12,7 +12,7 @@ As the founder of [Spectra Studios](https://spectrastudios.co.za), I focus on de
 ### Skills & Tools
 
 - **Languages**: HTML5, CSS3, JavaScript, C#, Java, XML, GameMaker Language
-- **Frameworks & Libraries**: .NET, React (Beginner)
+- **Frameworks & Libraries**: .NET
 - **Tools**: VS Code, GitHub, Netlify, Figma, Canva, Audacity
 - **Game Engines**: GameMaker Studio 2, Unity (Beginner)
 
