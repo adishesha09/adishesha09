@@ -26,7 +26,7 @@ As the founder of [Spectra Studios](https://spectrastudios.co.za), I focus on de
 
 - Build fun and functional tools that improve the lives of others
 - Share my learning journey through open-source projects and tutorials on Instagram
-- Continue growing as a full-stack game and web developer
+- Continue growing as a full-stack game developer.
 
 ### Let’s Connect
 
