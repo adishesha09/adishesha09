@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Adishesha, a passionate developer, designer, and creat
 
 ### What I Do
 
-As the founder of [Spectra Studios](https://spectrastudios.co.za), I focus on delivering impactful solutions through a blend of creativity, technical skill, and user-centered design. I enjoy taking ideas from concept to launch, ensuring they are not only functional but also intuitive. 
+I focus on delivering impactful solutions through a blend of creativity, technical skill, and user-centered design. I enjoy taking ideas from concept to launch, ensuring they are not only functional but also intuitive. 
 
 - **Game Development**: Game Design and Development using tools like GameMaker Studio and Unity.
 - **Web Development**: Modern, responsive websites using HTML5, CSS3, and JavaScript.
