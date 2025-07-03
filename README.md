@@ -13,7 +13,7 @@ I focus on delivering impactful solutions through a blend of creativity, technic
 
 - **Languages**: HTML5, CSS3, JavaScript (Beginner), C#, Java, XML, GameMaker Language
 - **Frameworks & Libraries**: .NET
-- **Tools**: VS Code, GitHub, Netlify, Canva, and Audacity
+- **Tools**: VS Code, GitHub, Netlify
 - **Game Engines**: GameMaker Studio 2, Unity 
 
 ### Current Projects
