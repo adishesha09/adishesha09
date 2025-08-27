@@ -13,7 +13,7 @@ I focus on delivering impactful solutions through a blend of creativity, technic
 
 - **Languages**: HTML5, CSS3, JavaScript (Beginner), C#, Java, XML, GameMaker Language
 - **Frameworks & Libraries**: .NET
-- **Tools**: VS Code, GitHub, Blender, Adobe Photoshop, ChatGPT,
+- **Tools**: VS Code, GitHub, Blender, Adobe Photoshop
 - **Game Engines**: GameMaker Studio 2, Unity 
 
 ### Current Projects
