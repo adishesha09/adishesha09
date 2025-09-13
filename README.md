@@ -18,9 +18,8 @@ I focus on delivering impactful solutions through a blend of creativity, technic
 
 ### Current Projects
 
-- A **turn-based battle game** with dynamic UI, my first portfolio piece for my first year Game Development course.
 - [Mush Go Deeper](https://ldjam.com/events/ludum-dare/57/mush-go-deeper), a game developed with friends for Ludum Dare 57
-- **Portfolio projects** including web development for real businesses
+- **Web Development Portfolio projects** including web development for real businesses
 
 ### Goals
 
