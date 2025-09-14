@@ -11,7 +11,7 @@ I focus on delivering impactful solutions through a blend of creativity, technic
 
 ### Skills & Tools
 
-- **Languages**: HTML5, CSS3, JavaScript (Beginner), C#, Java, XML, GameMaker Language
+- **Languages**: HTML5, CSS3, JavaScript, C#, Java, XML, GameMaker Language
 - **Frameworks & Libraries**: .NET
 - **Tools**: VS Code, GitHub, Blender, Adobe Photoshop
 - **Game Engines**: GameMaker Studio 2, Unity 
@@ -19,7 +19,6 @@ I focus on delivering impactful solutions through a blend of creativity, technic
 ### Current Projects
 
 - [Mush Go Deeper](https://ldjam.com/events/ludum-dare/57/mush-go-deeper), a game developed with friends for Ludum Dare 57
-- **Web Development Portfolio projects** including web development for real businesses
 
 ### Goals
 
