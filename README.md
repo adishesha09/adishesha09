@@ -92,13 +92,13 @@ I enjoy taking ideas from **concept to launch**, ensuring they’re not only fun
       </a>
     </td>
     <td align="center" width="160">
-      <a href="https://github.com/adishesha-nandkoomar" target="_blank">
+      <a href="https://github.com/adishesha09" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="26" alt="GitHub"/><br>
         <b>GitHub</b>
       </a>
     </td>
     <td align="center" width="160">
-      <a href="https://linkedin.com/in/adishesha-sai-nandkoomar" target="_blank">
+      <a href="https://www.linkedin.com/in/adishesha-sai-nandkoomar-02850534a/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn"/><br>
         <b>LinkedIn</b>
       </a>
