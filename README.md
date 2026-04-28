@@ -71,6 +71,9 @@ I enjoy taking ideas from **concept to launch**, ensuring they’re not only fun
 **Mush Go Deeper**  
 > A collaborative game created for **Ludum Dare 57**, combining **whimsical visuals** with classic platformer mechanics.  
 
+**Mage Switch**  
+> A puzzle platformer where you play as a lone mage trapped in a mysterious labyrinth with no memory of how you arrived. Armed with the unique ability to **switch the positions of objects**, you must rethink the world around you to solve increasingly complex environmental puzzles. Every obstacle can be reshaped through **careful observation and clever strategy**, revealing new paths as you delve deeper into the disorienting maze.
+
 ---
 
 ### Goals  
