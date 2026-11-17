@@ -97,7 +97,11 @@ I specialise in turning ideas into **playable, immersive experiences**, fusing g
 </p>
 
 **Narrative Toolkit**
-> `Twine` `Ren'Py` `Interactive Fiction` `Branching Dialogue Systems`
+<p align="left">
+  <img src="assets/logos/twine.svg" width="34" alt="Twine"/>
+  <img src="assets/logos/renpy.svg" width="40" alt="Ren'Py"/>
+</p>
+<sub>Interactive fiction and branching dialogue systems</sub>
 
 ---
 
@@ -227,8 +231,11 @@ Full scope, DNS/domain setup and bookings at **[spectrastudios.co.za](https://ww
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=adishesha09&show_icons=false&hide_rank=true&count_private=true&hide_border=false&bg_color=11182B&title_color=E2A53D&text_color=F2DFB0&border_color=5C8AA6" alt="GitHub Stats" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adishesha09&layout=compact&hide_border=false&bg_color=11182B&title_color=E2A53D&text_color=F2DFB0&border_color=5C8AA6" alt="Top Languages" width="38%" />
+[![Followers](https://img.shields.io/github/followers/adishesha09?style=for-the-badge&logo=github&logoColor=E2A53D&label=FOLLOWERS&labelColor=11182B&color=5C8AA6)](https://github.com/adishesha09?tab=followers)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadishesha09&query=%24.public_repos&label=REPOS&style=for-the-badge&labelColor=11182B&color=E2A53D)](https://github.com/adishesha09?tab=repositories)
+[![Top Language](https://img.shields.io/github/languages/top/adishesha09/adishesha09?style=for-the-badge&label=TOP%20LANGUAGE&labelColor=11182B&color=5C8AA6)](https://github.com/adishesha09)
+
+<sub>Live numbers, pulled straight from the GitHub API.</sub>
 
 </div>
 
