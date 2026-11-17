@@ -243,40 +243,15 @@ Full scope, DNS/domain setup and bookings at **[spectrastudios.co.za](https://ww
 
 ## <img src="assets/icons/users.svg" width="20" alt="Connect"/> MULTIPLAYER_LOBBY (CONNECT)
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <a href="https://www.spectrastudios.co.za" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="26" alt="Portfolio"/><br>
-        <b>Portfolio</b>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://github.com/adishesha09" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="26" alt="GitHub"/><br>
-        <b>GitHub</b>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/adishesha-sai-nandkoomar-02850534a/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn"/><br>
-        <b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://www.instagram.com/spectra._.studios/" target="_blank">
-        <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="26" alt="Instagram"/><br>
-        <b>Instagram</b>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://adishesha09.itch.io/" target="_blank">
-        <img src="https://static.itch.io/images/itchio-textless-white.svg" width="26" alt="itch.io" style="background:#5C8AA6; border-radius:4px; padding:2px;"/><br>
-        <b>itch.io</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-spectrastudios.co.za-5C8AA6?style=for-the-badge&labelColor=11182B&logo=googlechrome&logoColor=E2A53D)](https://www.spectrastudios.co.za)
+[![GitHub](https://img.shields.io/badge/GITHUB-adishesha09-E2A53D?style=for-the-badge&labelColor=11182B&logo=github&logoColor=E2A53D)](https://github.com/adishesha09)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-5C8AA6?style=for-the-badge&labelColor=11182B&logo=linkedin&logoColor=E2A53D)](https://www.linkedin.com/in/adishesha-sai-nandkoomar-02850534a/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-spectra.studios-E2A53D?style=for-the-badge&labelColor=11182B&logo=instagram&logoColor=E2A53D)](https://www.instagram.com/spectra._.studios/)
+[![itch.io](https://img.shields.io/badge/itch.io-play%20my%20games-5C8AA6?style=for-the-badge&labelColor=11182B&logo=itchdotio&logoColor=E2A53D)](https://adishesha09.itch.io/)
+
+</div>
 
 ---
 
