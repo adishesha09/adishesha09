@@ -232,8 +232,8 @@ Full scope, DNS/domain setup and bookings at **[spectrastudios.co.za](https://ww
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/adishesha09?style=for-the-badge&logo=github&logoColor=E2A53D&label=FOLLOWERS&labelColor=11182B&color=5C8AA6)](https://github.com/adishesha09?tab=followers)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadishesha09&query=%24.public_repos&label=REPOS&style=for-the-badge&labelColor=11182B&color=E2A53D)](https://github.com/adishesha09?tab=repositories)
-[![Top Language](https://img.shields.io/github/languages/top/adishesha09/adishesha09?style=for-the-badge&label=TOP%20LANGUAGE&labelColor=11182B&color=5C8AA6)](https://github.com/adishesha09)
+[![Top Language](https://img.shields.io/github/languages/top/adishesha09/adishesha09?style=for-the-badge&label=TOP%20LANGUAGE&labelColor=11182B&color=E2A53D)](https://github.com/adishesha09)
+[![Last Commit](https://img.shields.io/github/last-commit/adishesha09/adishesha09?style=for-the-badge&label=LAST%20COMMIT&labelColor=11182B&color=5C8AA6)](https://github.com/adishesha09/adishesha09/commits/main)
 
 <sub>Live numbers, pulled straight from the GitHub API.</sub>
 
