@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Adishesha Nandkoomar (Profile) - PC98 Art.png" width="200" alt="Adishesha Nandkoomar — PC-98 pixel portrait" />
+<img src="Adishesha Nandkoomar (Profile) - PC98 Art.png" width="200" alt="Adishesha Nandkoomar, PC-98 pixel portrait" />
 
 <br/>
 
@@ -9,9 +9,9 @@
 ```
 > BOOTING SPECTRASTUDIOS.SYS ........................ OK
 > LOADING PLAYER PROFILE ............................ OK
-> MOUNTING ENGINES: UNITY // UNREAL ENGINE 5 ........ OK
+> MOUNTING UNITY + UNREAL ENGINE 5 MODULES .......... OK
 > COMPILING CREATIVE.DLL ............................. OK
-> SYSTEM READY — WELCOME, PLAYER ONE.
+> SYSTEM READY. PLAYER ONE IS GO.
 ```
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-spectrastudios.co.za-5C8AA6?style=for-the-badge&labelColor=11182B&logo=googlechrome&logoColor=E2A53D)](https://www.spectrastudios.co.za)
@@ -27,42 +27,42 @@
 
 </div>
 
-## 🕹️ ABOUT_ME.EXE
+## <img src="assets/icons/user.svg" width="20" alt="About"/> ABOUT_ME.EXE
 
-I'm **Adishesha Sai Nandkoomar** — a Game Design & Development student at **Vega School**, and the founder of **[Spectra Studios](https://www.spectrastudios.co.za)**, a boutique game dev studio based in South Africa.
+I'm **Adishesha Sai Nandkoomar**, a Game Design & Development student at **Vega School** and the founder of **[Spectra Studios](https://www.spectrastudios.co.za)**, a boutique game dev studio based in South Africa.
 
-I specialise in turning ideas into **playable, immersive experiences** — fusing gameplay programming, UI/UX, narrative design, and 3D art into one cohesive creative pipeline. I enjoy taking projects from **concept → prototype → polished build**, whether that's a Unity endless runner, an Unreal Blueprint prototype, or a branching Twine story.
+I specialise in turning ideas into **playable, immersive experiences**, fusing gameplay programming, UI/UX, narrative design and 3D art into one cohesive creative pipeline. I enjoy taking projects from **concept to prototype to polished build**, whether that's a Unity endless runner, an Unreal Blueprint prototype or a branching Twine story.
 
-> `STATUS:` Currently levelling up in **Unreal Engine 5** & **C++**, shipping student POE projects, and mentoring the next wave of first-years.
+> Currently levelling up in **Unreal Engine 5** and **C++**, shipping student POE projects and mentoring the next wave of first-years.
 
 <table align="center">
 <tr>
-<td align="center" width="230"><b>🏆 Deputy Head Boy</b><br/><sub>St. Dominics Newcastle · 2024</sub></td>
-<td align="center" width="230"><b>🎖️ Triple Distinction</b><br/><sub>IT · CAT · Life Orientation · 2024</sub></td>
-<td align="center" width="230"><b>🧑‍🏫 FYE Mentor</b><br/><sub>GRIT3sixT Programme · Vega School</sub></td>
+<td align="center" width="230"><b><img src="assets/icons/trophy.svg" width="16" alt="Trophy"/> Deputy Head Boy</b><br/><sub>St. Dominics Newcastle · 2024</sub></td>
+<td align="center" width="230"><b><img src="assets/icons/star.svg" width="16" alt="Star"/> Triple Distinction</b><br/><sub>IT · CAT · Life Orientation · 2024</sub></td>
+<td align="center" width="230"><b><img src="assets/icons/users.svg" width="16" alt="Mentor"/> FYE Mentor</b><br/><sub>GRIT3sixT Programme · Vega School</sub></td>
 </tr>
 <tr>
-<td align="center" width="230"><b>🎙️ Career Services Ambassador</b><br/><sub>Emeris Voice</sub></td>
-<td align="center" width="230"><b>📰 Featured — IOL</b><br/><sub>Ludum Dare 57 coverage · 2025</sub></td>
-<td align="center" width="230"><b>🎮 Ludum Dare 57</b><br/><sub>Shipped "Mush Go Deeper"</sub></td>
+<td align="center" width="230"><b><img src="assets/icons/mic.svg" width="16" alt="Ambassador"/> Career Services Ambassador</b><br/><sub>Emeris Voice</sub></td>
+<td align="center" width="230"><b><img src="assets/icons/notebook.svg" width="16" alt="Feature"/> Featured in IOL</b><br/><sub>Ludum Dare 57 coverage · 2025</sub></td>
+<td align="center" width="230"><b><img src="assets/icons/gamepad.svg" width="16" alt="Jam"/> Ludum Dare 57</b><br/><sub>Shipped "Mush Go Deeper"</sub></td>
 </tr>
 </table>
 
 ---
 
-## 🧩 WHAT_I_DO.BAT
+## <img src="assets/icons/tool-case.svg" width="20" alt="What I Do"/> WHAT_I_DO.BAT
 
 | Module | Description |
 |---|---|
-| 🎮 **Game Development** | Gameplay systems, mechanics, and full builds in **Unity (C#)** and **Unreal Engine 5 (C++ / Blueprints)**. |
-| 🖥️ **Interactive & Web Design** | Retro-inspired, game-like web experiences — see **[SpectraOS](https://www.spectrastudios.co.za)**, my playable 90s-desktop portfolio. |
-| ✍️ **Narrative Design** | Branching dialogue, character writing, and interactive fiction in **Twine** and **Ren'Py**. |
-| 🎨 **3D Art** | Character animation, FPS props, and environment art sculpted & rendered in **Blender**. |
-| 🧑‍🤝‍🧑 **Mentorship** | Guiding first-year students and indie devs through project reviews and roadmap planning. |
+| <img src="assets/icons/joystick.svg" width="18" alt="Game Dev"/> **Game Development** | Gameplay systems, mechanics and full builds in **Unity (C#)** and **Unreal Engine 5 (C++ / Blueprints)**. |
+| <img src="assets/icons/monitor.svg" width="18" alt="Web Design"/> **Interactive & Web Design** | Retro-inspired, game-like web experiences such as **[SpectraOS](https://www.spectrastudios.co.za)**, my playable 90s-desktop portfolio. |
+| <img src="assets/icons/script.svg" width="18" alt="Narrative"/> **Narrative Design** | Branching dialogue, character writing and interactive fiction in **Twine** and **Ren'Py**. |
+| <img src="assets/icons/shapes.svg" width="18" alt="3D Art"/> **3D Art** | Character animation, FPS props and environment art sculpted & rendered in **Blender**. |
+| <img src="assets/icons/users.svg" width="18" alt="Mentorship"/> **Mentorship** | Guiding first-year students and indie devs through project reviews and roadmap planning. |
 
 ---
 
-## 💾 TECH_STACK.CFG
+## <img src="assets/icons/save.svg" width="20" alt="Tech Stack"/> TECH_STACK.CFG
 
 **Languages**
 <p align="left">
@@ -101,69 +101,69 @@ I specialise in turning ideas into **playable, immersive experiences** — fusin
 
 ---
 
-## 📼 QUEST_LOG — CURRENT & PAST PROJECTS
+## <img src="assets/icons/book-open.svg" width="20" alt="Quest Log"/> QUEST_LOG.DAT (PROJECTS)
 
 <table>
 <tr><th>Project</th><th>Genre</th><th>Built With</th><th>Link</th></tr>
 
 <tr>
-<td><b>🖥️ SpectraOS</b><br/><sub>My portfolio, reimagined as a playable 90s desktop OS — draggable windows, dynamic theming & a Pikachu companion.</sub></td>
+<td><b><img src="assets/icons/monitor.svg" width="16" alt=""/> SpectraOS</b><br/><sub>My portfolio, reimagined as a playable 90s desktop OS with draggable windows, dynamic theming and a Pikachu companion.</sub></td>
 <td>Interactive Web Experience</td>
 <td>HTML · CSS · JavaScript</td>
 <td><a href="https://www.spectrastudios.co.za">Visit Site</a></td>
 </tr>
 
 <tr>
-<td><b>🌸 The Last Petal: Echoes Beneath the Bell</b><br/><sub>A dialogue-driven Twine story following Ren Takahiro, a samurai character co-designed with Arya Singh.</sub></td>
+<td><b><img src="assets/icons/bell.svg" width="16" alt=""/> The Last Petal: Echoes Beneath the Bell</b><br/><sub>A dialogue-driven Twine story following Ren Takahiro, a samurai character co-designed with Arya Singh.</sub></td>
 <td>Interactive Fiction</td>
 <td>Twine · HTML · CSS · JS</td>
 <td><a href="https://the-last-petal.vercel.app/">Play</a></td>
 </tr>
 
 <tr>
-<td><b>🕯️ Lucille's Journey</b><br/><sub>A narrative adventure for The Refugee Archive, retelling a refugee's oral account with AR elements.</sub></td>
+<td><b><img src="assets/icons/tent.svg" width="16" alt=""/> Lucille's Journey</b><br/><sub>A narrative adventure for The Refugee Archive, retelling a refugee's oral account with AR elements.</sub></td>
 <td>Narrative Adventure</td>
 <td>C# · Unity · AR</td>
 <td><a href="https://lucilles-journey.vercel.app/">Play</a></td>
 </tr>
 
 <tr>
-<td><b>🚀 Fracture Run</b><br/><sub>A 3D endless runner across two looping outer-space levels with a global ranked leaderboard.</sub></td>
+<td><b><img src="assets/icons/speed-fast.svg" width="16" alt=""/> Fracture Run</b><br/><sub>A 3D endless runner across two looping outer-space levels with a global ranked leaderboard.</sub></td>
 <td>Endless Runner</td>
 <td>C# · Unity · Firebase</td>
 <td><a href="https://www.spectrastudios.co.za/assets/videos/gade-6222-poe-video.mp4">Watch Demo</a></td>
 </tr>
 
 <tr>
-<td><b>🪄 Mage Switch</b><br/><sub>A puzzle-platformer where you swap the positions of objects to reshape every obstacle in your path.</sub></td>
+<td><b><img src="assets/icons/shuffle.svg" width="16" alt=""/> Mage Switch</b><br/><sub>A puzzle-platformer where you swap the positions of objects to reshape every obstacle in your path.</sub></td>
 <td>Puzzle Platformer</td>
 <td>C# · Unity</td>
 <td><a href="https://adishesha09.itch.io/mage-switch">Play on itch.io</a></td>
 </tr>
 
 <tr>
-<td><b>🤿 Scuba Steve</b><br/><sub>A cosy pixel-art dive into an endless ocean, collecting debris in support of UN SDG 14: Life Below Water.</sub></td>
+<td><b><img src="assets/icons/fish.svg" width="16" alt=""/> Scuba Steve</b><br/><sub>A cosy pixel-art dive into an endless ocean, collecting debris in support of UN SDG 14: Life Below Water.</sub></td>
 <td>Cozy / Educational</td>
 <td>Unity · Pixel Art</td>
 <td><a href="https://adishesha09.itch.io/scuba-steve">Play on itch.io</a></td>
 </tr>
 
 <tr>
-<td><b>⌨️ Code Crawler</b><br/><sub>A retro ASCII-based dungeon crawler built with Ayden Willett for our first-year POE.</sub></td>
+<td><b><img src="assets/icons/skull.svg" width="16" alt=""/> Code Crawler</b><br/><sub>A retro ASCII-based dungeon crawler built with Ayden Willett for our first-year POE.</sub></td>
 <td>Dungeon Crawler</td>
 <td>C# · .NET 9 · WinForms</td>
 <td><a href="https://github.com/adishesha09/GADE-6122-POE-Adishesha-and-Ayden">View Repo</a></td>
 </tr>
 
 <tr>
-<td><b>📟 Ascii-Vision 95</b><br/><sub>A browser tool that converts images into ASCII art inside a Windows 95-inspired interface.</sub></td>
+<td><b><img src="assets/icons/terminal.svg" width="16" alt=""/> Ascii-Vision 95</b><br/><sub>A browser tool that converts images into ASCII art inside a Windows 95-inspired interface.</sub></td>
 <td>ASCII Art Tool</td>
 <td>JavaScript · HTML · CSS</td>
 <td><a href="https://adishesha09.itch.io/ascii-vision-95">Try it</a></td>
 </tr>
 
 <tr>
-<td><b>🍄 Mush Go Deeper</b><br/><sub>A Ludum Dare 57 collaboration with Studio BeepBoop — whimsical visuals, classic platforming.</sub></td>
+<td><b><img src="assets/icons/leaf.svg" width="16" alt=""/> Mush Go Deeper</b><br/><sub>A Ludum Dare 57 collaboration with Studio BeepBoop, combining whimsical visuals and classic platforming.</sub></td>
 <td>Indie Platformer</td>
 <td>C# · Unity</td>
 <td><a href="https://studio-beepboop.itch.io/mush-go-deeper">Play on itch.io</a></td>
@@ -171,11 +171,11 @@ I specialise in turning ideas into **playable, immersive experiences** — fusin
 
 </table>
 
-🎨 I also sculpt & render **3D art in Blender** — a Samurai character with a full animation set, FPS shooter props, and more. Browse the full gallery at **[spectrastudios.co.za/#art](https://www.spectrastudios.co.za/#art)**.
+<img src="assets/icons/shapes.svg" width="16" alt=""/> I also sculpt and render **3D art in Blender**, including a Samurai character with a full animation set, FPS shooter props and more. Browse the full gallery at **[spectrastudios.co.za/#art](https://www.spectrastudios.co.za/#art)**.
 
 ---
 
-## 💌 HIRE_ME.SYS — FREELANCE SERVICES
+## <img src="assets/icons/mail.svg" width="20" alt="Hire Me"/> HIRE_ME.SYS (FREELANCE SERVICES)
 
 <table>
 <tr><th>Service</th><th>ZAR (from)</th><th>USD (from)</th></tr>
@@ -189,19 +189,19 @@ I specialise in turning ideas into **playable, immersive experiences** — fusin
 
 <div align="center">
 
-📖 Full scope, DNS/domain setup & bookings → **[spectrastudios.co.za](https://www.spectrastudios.co.za)**
+Full scope, DNS/domain setup and bookings at **[spectrastudios.co.za](https://www.spectrastudios.co.za)**
 
 </div>
 
 ---
 
-## 🧃 SAVE_FILE.DAT — FAVOURITE GAMES
+## <img src="assets/icons/heart.svg" width="20" alt="Favourite Games"/> SAVE_FILE.DAT (FAVOURITE GAMES)
 
 <table>
 <tr>
 <td width="50%">
 
-**🎒 Nintendo Nostalgia**
+**<img src="assets/icons/gamepad.svg" width="16" alt=""/> Nintendo Nostalgia**
 - Pokémon HeartGold
 - Pokémon Crystal
 - Mario & Luigi: Partners in Time
@@ -210,7 +210,7 @@ I specialise in turning ideas into **playable, immersive experiences** — fusin
 </td>
 <td width="50%">
 
-**⚖️ Puzzles & Courtrooms**
+**<img src="assets/icons/scale.svg" width="16" alt=""/> Puzzles & Courtrooms**
 - Professor Layton and the Pandora's Box
 - Professor Layton and the Azran Legacy
 - Professor Layton vs. Phoenix Wright: Ace Attorney
@@ -223,20 +223,18 @@ I specialise in turning ideas into **playable, immersive experiences** — fusin
 
 ---
 
-## 📊 PLAYER_STATS.LOG
+## <img src="assets/icons/chart-bar-big.svg" width="20" alt="Player Stats"/> PLAYER_STATS.LOG
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=adishesha09&show_icons=true&count_private=true&hide_border=false&bg_color=11182B&title_color=E2A53D&icon_color=5C8AA6&text_color=F2DFB0&border_color=5C8AA6" alt="GitHub Stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=adishesha09&show_icons=false&hide_rank=true&count_private=true&hide_border=false&bg_color=11182B&title_color=E2A53D&text_color=F2DFB0&border_color=5C8AA6" alt="GitHub Stats" width="48%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adishesha09&layout=compact&hide_border=false&bg_color=11182B&title_color=E2A53D&text_color=F2DFB0&border_color=5C8AA6" alt="Top Languages" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adishesha09&background=11182B&border=5C8AA6&ring=E2A53D&fire=E2A53D&currStreakLabel=F2DFB0&sideLabels=F2DFB0&currStreakNum=F2DFB0&sideNums=F2DFB0&dates=5C8AA6" alt="GitHub Streak" width="60%" />
 
 </div>
 
 ---
 
-## 🎮 MULTIPLAYER_LOBBY — CONNECT WITH ME
+## <img src="assets/icons/users.svg" width="20" alt="Connect"/> MULTIPLAYER_LOBBY (CONNECT)
 
 <table align="center">
   <tr>
@@ -284,6 +282,10 @@ I specialise in turning ideas into **playable, immersive experiences** — fusin
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=adishesha09&style=for-the-badge&color=5C8AA6&labelColor=11182B&label=VISITOR+COUNT)
 
-**Thanks for stopping by — now go touch grass, then come build something cool. 🎮**
+**Thanks for stopping by. Now go touch grass, then come build something cool.**
+
+<img src="assets/icons/gamepad.svg" width="22" alt=""/>
+
+<sub>Pixel icons by [pixelarticons](https://pixelarticons.com) (MIT License).</sub>
 
 </div>
