@@ -234,9 +234,9 @@ Full scope, DNS/domain setup and bookings at **[spectrastudios.co.za](https://ww
 [![Followers](https://img.shields.io/github/followers/adishesha09?style=for-the-badge&logo=github&logoColor=E2A53D&label=FOLLOWERS&labelColor=11182B&color=5C8AA6)](https://github.com/adishesha09?tab=followers)
 [![Last Commit](https://img.shields.io/github/last-commit/adishesha09/adishesha09?style=for-the-badge&label=LAST%20COMMIT&labelColor=11182B&color=E2A53D)](https://github.com/adishesha09/adishesha09/commits/main)
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adishesha09&layout=compact&hide_border=false&bg_color=11182B&title_color=E2A53D&text_color=F2DFB0&border_color=5C8AA6" alt="Most Used Languages" width="340" />
+<img src="assets/generated/top-languages.svg" alt="Most Used Languages" width="400" />
 
-<sub>Live numbers, pulled straight from the GitHub API.</sub>
+<sub>Live numbers, pulled straight from the GitHub API and refreshed daily by a scheduled GitHub Action.</sub>
 
 </div>
 
